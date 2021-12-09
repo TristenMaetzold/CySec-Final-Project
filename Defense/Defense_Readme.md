@@ -8,7 +8,7 @@
 - Suggestions for Going Further
 
 ### Network Topology
-(https://github.com/TristenMaetzold/CySec-Final-Project/blob/main/Images/Final%20Network%20Network%20Map.PNG)
+![alt text](https://github.com/TristenMaetzold/CySec-Final-Project/blob/3d67c21be0973bf5c6ae48eb17944f15526c24c1/Images/Final%20Network%20Network%20Map.PNG)[https://github.com/TristenMaetzold/CySec-Final-Project/blob/3d67c21be0973bf5c6ae48eb17944f15526c24c1/Images/Final%20Network%20Network%20Map.PNG]
 
 ### The following machines were identified on the network:
 
