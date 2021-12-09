@@ -1,5 +1,7 @@
 # CySec-Final-Project
-The final group project for the University of Minnesota Cybersecurity Bootcamp
+The final group project for the University of Minnesota Cybersecurity Bootcamp.
+
+**By: Tristen Maetzold, Rob Myers, Scott Hanson, Jason Scherer, Christina Derek, Donald Stephens, Anthony Dornsbach, and Zach Michka**
 
 ## Table of Contents
 
