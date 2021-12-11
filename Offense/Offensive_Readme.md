@@ -11,7 +11,7 @@ Nmap scan results for each machine reveal the below services and OS details:
 
 ```bash
 $ nmap ... `nmap -sV 192.168.1.110`
-  ![https://github.com/shansen18/BootCamp/blob/ee4d8a4383daf6daa06e785e74d52db8662d4d84/Final_Project/Images/nmap.PNG]
+  ![https://github.com/TristenMaetzold/CySec-Final-Project/blob/11189184ce3bea51376a4a6e712c68471ddbbe22/Images/nmap.PNG]
 ```
 
 This scan identifies the services below as potential points of entry:
@@ -46,7 +46,7 @@ The Red Team was able to penetrate `Target 1` and retrieve the following confide
       - SSH'd into `192.168.1.110` using the user `Michael` guessed the weak password `Michael`
       - Navigated to /var/wwww/html/
       - Ran `nano services.html` and in the footer information found Flag1
-![Flag1](https://github.com/shansen18/BootCamp/blob/main/Final_Project/Images/Flag1.PNG)
+![Flag1](https://github.com/TristenMaetzold/CySec-Final-Project/blob/11189184ce3bea51376a4a6e712c68471ddbbe22/Images/Flag1.PNG)
 
   - `flag2.txt`:`flag2{fc3fd58dcdad9ab23faca6e9a3e581c}`
     - **Exploit Used**
@@ -54,7 +54,7 @@ The Red Team was able to penetrate `Target 1` and retrieve the following confide
       - `cd ..`
       - `ls`
       - `nano flag2.txt`
-![flag2](https://github.com/shansen18/BootCamp/blob/main/Final_Project/Images/Flag2.PNG)
+![flag2](https://github.com/TristenMaetzold/CySec-Final-Project/blob/11189184ce3bea51376a4a6e712c68471ddbbe22/Images/Flag2.PNG)
 
  - `flag3.txt`:`flag3{afc01ab56b50591e7dccf93122770cd2}`
     - **Exploit Used**
@@ -66,7 +66,7 @@ The Red Team was able to penetrate `Target 1` and retrieve the following confide
       - `use wordpress;` to use the wordpress database
       - `select * from wp_posts;` to find flag3 and flag4 in wp_posts.
       - `select * from wp_users;` to find users and password hashes.
-![dbusername](https://github.com/shansen18/BootCamp/blob/main/Final_Project/Images/databasepswrd.PNG)
+![dbusername](https://github.com/TristenMaetzold/CySec-Final-Project/blob/11189184ce3bea51376a4a6e712c68471ddbbe22/Images/databasepswrd.PNG)
 ![Flag3](https://github.com/TristenMaetzold/CySec-Final-Project/blob/d33c069ee7ca41c0fe3fb0b2cf41dcbb9ca1a639/Images/Flag3and4.PNG)
 
  - `flag4.txt`:`flag4{715dea6c055b9fe3337544932f2941ce}`
@@ -80,4 +80,4 @@ The Red Team was able to penetrate `Target 1` and retrieve the following confide
         - `CD /root`
         - `ls` saw flag4.txt
         - `cat flag4.txt` to find the flag. 
-        ![flag4](https://github.com/shansen18/BootCamp/blob/main/Final_Project/Images/Flag4.PNG)
+        ![flag4](https://github.com/TristenMaetzold/CySec-Final-Project/blob/11189184ce3bea51376a4a6e712c68471ddbbe22/Images/Flag%204.png)
