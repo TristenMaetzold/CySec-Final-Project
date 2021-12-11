@@ -67,7 +67,7 @@ The Red Team was able to penetrate `Target 1` and retrieve the following confide
       - `select * from wp_posts;` to find flag3 and flag4 in wp_posts.
       - `select * from wp_users;` to find users and password hashes.
 ![dbusername](https://github.com/shansen18/BootCamp/blob/main/Final_Project/Images/databasepswrd.PNG)
-![Flag3](https://github.com/shansen18/BootCamp/blob/main/Final_Project/Images/databasepswrd.PNG)
+![Flag3](https://github.com/TristenMaetzold/CySec-Final-Project/blob/d33c069ee7ca41c0fe3fb0b2cf41dcbb9ca1a639/Images/Flag3and4.PNG)
 
  - `flag4.txt`:`flag4{715dea6c055b9fe3337544932f2941ce}`
     - **Exploit Used**
