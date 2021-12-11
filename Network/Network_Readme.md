@@ -11,11 +11,11 @@ You must inspect your traffic capture to answer the following questions:
  
 2. What is the IP address of the Domain Controller (DC) of the AD network?
 **12.6.12.12**
- ![custom](https://github.com/shansen18/BootCamp/blob/main/Final_Project/Images/pcap/customdomain.PNG)
+ ![custom](https://github.com/TristenMaetzold/CySec-Final-Project/customdomain.PNG)
 
 3. What is the name of the malware downloaded to the 10.6.12.203 machine? 
 **June11.dll**
-![Getdll](https://github.com/shansen18/BootCamp/blob/main/Final_Project/Images/pcap/GetDll.PNG)
+![Getdll](https://github.com/TristenMaetzold/CySec-Final-Project/Images/GetDll.PNG)
 
 
 Upload the file to VirusTotal.com. What kind of malware is this classified as?
